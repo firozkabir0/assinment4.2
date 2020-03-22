@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    height: 80px;
+    font-size: 20px;
+    
+    background-color: bisque;
+    margin-bottom: 10px;
+}
+.menus {
+    height: 60px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 35px;
+    
+    background-color: bisque;
+    margin-bottom: 10px;
+
+}
+
+.banner {
+    height: 100px;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 35px;
+    
+    background-color: bisque;
+    margin-bottom: 10px;
+}
+
+.body {
+    overflow: hidden;
+    
+}
+.sidebar{
+    height: 300px;
+    width: 28%;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 150px;
+    
+    background-color: bisque;
+    margin: 1px;
+    float: left;
+    
+}
+.bodyarea{
+    height: 300px;
+    width: 70%;
+    font-size: 20px;
+    text-align: center;
+    padding-top: 150px;
+   
+    background-color: bisque;
+    margin-bottom: 10px;
+    float: right;
+}
+
+.footer {
+    height: 60px;
+    font-size: 30px;
+    text-align: center;
+    background-color: bisque;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
